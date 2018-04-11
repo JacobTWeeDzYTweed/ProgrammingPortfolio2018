@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jacob Tweed's 2017-2018 Project Portfolio
 
 You can use the [editor on GitHub](https://github.com/JacobTWeeDzYTweed/ProgrammingPortfolio2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
