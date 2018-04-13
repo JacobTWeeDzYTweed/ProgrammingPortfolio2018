@@ -1,37 +1,18 @@
 ## Welcome to Jacob Tweed's 2017-2018 Project Portfolio
 
-You can use the [editor on GitHub](https://github.com/JacobTWeeDzYTweed/ProgrammingPortfolio2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### A Little About Myself
+My name is Jacob Tweed, I am a student attending Skyline Highschool. I love video games and coding video games. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects I Have Worked On:
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Pokedex Calculator](https://github.com/JacobTWeeDzYTweed/Calculator): I created this because I love Pokemon and calculators are very useful. This was created in a program called [Processing](https://processing.org/) The calulator does not contain all functions of a calculator but it contains basic funtions for the user to use.
 
-```markdown
-Syntax highlighted code block
+- [Pong Remake](https://github.com/JacobTWeeDzYTweed/PongBall): Pong was always a fun game for me, so I decided to recreate it using C#. I created this using [Unity](https://unity3d.com/). I enjoyed using this program because it made it so much easier to incorporate physics.
 
-# Header 1
-## Header 2
-### Header 3
+- [Shape Calculator](https://github.com/JacobTWeeDzYTweed/JTTShape): This program is a volume and area calculator for boxes, pyramids and spheres. I created it using [Visual Studio Community](https://www.visualstudio.com/vs/community/). This program really helped me create this program fast and efficiently.
 
-- Bulleted
-- List
+-More soon to come!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JacobTWeeDzYTweed/ProgrammingPortfolio2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Thank You for Visiting my Portfolio
+- Jacob Tweed
