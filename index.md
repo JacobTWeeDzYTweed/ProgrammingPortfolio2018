@@ -14,7 +14,6 @@ My name is Jacob Tweed, I am a student attending Skyline Highschool. I love vide
 
 - [Shape Calculator](https://github.com/JacobTWeeDzYTweed/JTTShape): This program is a volume and area calculator for boxes, pyramids and spheres. I created it using [Visual Studio Community](https://www.visualstudio.com/vs/community/). This program really helped me create this program fast and efficiently.
 
-- More soon to come!
 
 ### Thank You for Visiting my Portfolio
 -Jacob Tweed
